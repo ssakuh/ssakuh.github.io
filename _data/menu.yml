@@ -4,4 +4,8 @@
 entries:
   - title: info
     entries:
-      - title: "projects <a href='https://github.com/ssakuh/'>here</a>."
+      - title: "technical projects"
+        url: https://github.com/ssakuh/
+      - title: "link list"
+        url: https://sakuh.gq./s/
+      
